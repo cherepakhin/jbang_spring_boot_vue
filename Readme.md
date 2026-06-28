@@ -2,6 +2,11 @@
 
 [О Jbang](https://v.perm.ru/index.php/component/content/article/jbang?catid=15)
 
+Это весь проект - 2 файла index-fetch.html + springbootJpaVue.java. Тем не менее это действительно CRUD приложение.
+
+main,  RestController, JpaRepository - __ВСЕ Spring beans__ в __ОДНОМ__ файле springbootJpaVue.java.
+HTML страница только одна index-fetch.html.
+
 Запуск:
 
 ````shell
