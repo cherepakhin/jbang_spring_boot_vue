@@ -1,4 +1,4 @@
-# Простое CRUD приложение с Spring Boot, Vue и JBang 
+# JBang простое CRUD приложение с Spring Boot, Vue 
 
 [О Jbang](https://v.perm.ru/index.php/component/content/article/jbang?catid=15)
 
